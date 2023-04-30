@@ -1,6 +1,8 @@
 # maceuploadfinal
 final project for mace.
 
+The original Mace GitHub repository link is: https://github.com/XiaoMi/mace
+
 This repository contains the final project for Mace, which includes the implementation of two deep neural networks (DNN) models, ShuffleNet v2+ small and RegNet (200M), and instructions on how to run the code successfully.
 
 To use the RegNet DNN model, users can download and open the RegNetUp file, and follow the provided instructions in the final report to run the code. For the ShuffleNet DNN model, users can download and open the ShuffleNetUp file, and similarly follow the instructions provided in the final report to run the code.
