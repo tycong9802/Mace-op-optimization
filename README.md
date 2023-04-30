@@ -1,10 +1,12 @@
 # maceuploadfinal
 final project for mace.
 
-Here is the instruction for these code:
+This repository contains the final project for Mace, which includes the implementation of two deep neural networks (DNN) models, ShuffleNet v2+ small and RegNet (200M), and instructions on how to run the code successfully.
 
-The RegNetUp is the code for the RegNet DNN model. You can open the file and download the code. Then run the code by the instruction that I mentioned 
-in the final report.
+To use the RegNet DNN model, users can download and open the RegNetUp file, and follow the provided instructions in the final report to run the code. For the ShuffleNet DNN model, users can download and open the ShuffleNetUp file, and similarly follow the instructions provided in the final report to run the code.
 
-The ShuffleNetUp is the code for the ShuffleNet DNN model. You can open the file and download the code. Then run the code by the instruction that I mentioned
-in the final report.
+To utilize the DNN models, users must also download the corresponding .yml file and model file. It is important for users to change the path in the .yml file based on the path of the model file and their own sha256.
+
+I ensure the code can run successfully on both Linux and MacOs with M1 chip.
+
+Overall, this project showcases successful implementation of these two popular DNN models, providing a valuable resource for researchers and practitioners in the field.
